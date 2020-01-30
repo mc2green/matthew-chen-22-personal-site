@@ -5732,7 +5732,7 @@ input, select, textarea {
 		}
 		.spotlight.style5 .content p#jobPosition{
 			color: cadetblue;
-			z-index: 2;
+			z-index: 1;
 			text-align: right;
 			width: 50%;
 			float: left;
@@ -5741,7 +5741,7 @@ input, select, textarea {
 
 		.spotlight.style5 .content p#jobDescription{
 			color: navy;
-			z-index: 3;
+			z-index: 1;
 			text-align: left;
 			width: 50%;
 			float: right;
