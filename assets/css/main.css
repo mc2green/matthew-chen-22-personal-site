@@ -3713,6 +3713,11 @@ input, select, textarea {
 			left: 0;
 			border-radius: 0;
 		}
+		#blog {
+			background-color: rgba(245, 245, 245, 0.75);
+			max-width: 79.5%;
+			width: 70rem;
+		}
 
 			.banner.style2 .image img {
 				-moz-object-fit: cover;
@@ -5701,8 +5706,8 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width:50.5%;
-			background-color: rgba(1, 31, 70, 0.50);
-			color: ivory;
+			background-color: rgba(1, 31, 70, 0.47);
+			color: whitesmoke;
 			border-radius: 0.5rem;
 			margin-bottom: 2rem;
 			z-index: 1;
