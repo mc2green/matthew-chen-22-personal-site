@@ -3717,6 +3717,7 @@ input, select, textarea {
 			background-color: rgba(245, 245, 245, 0.75);
 			max-width: 79.5%;
 			width: 70rem;
+			box-shadow: 1px 1px 2px slategray;
 		}
 
 			.banner.style2 .image img {
